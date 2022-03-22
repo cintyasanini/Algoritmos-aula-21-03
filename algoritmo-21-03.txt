@@ -1,0 +1,10 @@
+Algoritmo para votar:
+
+
+1 - Exibir na tela "Entrar com sua idade"
+2 - Inserir idade;
+3 - Averiguar idade;
+4 - se for menor de 16, exibir "Não vota";
+5 - Se não, entre 16 e 17, exibir "Voto facultativo";
+6 - Se tiver entre 18 e 70, exibir "Voto obrigatório";
+7 - Se não, maior que 70, exibir "Voto facultativo.
